@@ -7,4 +7,4 @@ This repository contains a simple script that simulates flipping a coin.
 import random  
 
 result = random.choice(["Heads", "Tails"])  
-print(f"The coin landed on: {result}")
+print(f"Your coin landed on: {result}")
