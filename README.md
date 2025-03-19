@@ -1,6 +1,6 @@
 # Coin Flip Simulator 🪙  
 
-This repository has a simple script that simulates flipping a coin!  
+This repository contains a simple script that simulates flipping a coin!  
 
 ## Code in This Repo  
 ```python
